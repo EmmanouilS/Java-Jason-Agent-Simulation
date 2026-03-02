@@ -1,0 +1,26 @@
+# --- Αρχεία της Java (Compiled) ---
+*.class
+*.jar
+*.war
+
+# --- Φάκελοι παραγωγής κώδικα (Ανάλογα το IDE σου) ---
+bin/
+out/
+build/
+target/
+
+# --- Αρχεία των IDE (IntelliJ, Eclipse, VS Code) ---
+.idea/
+*.iml
+.metadata/
+.classpath
+.project
+.settings/
+.vscode/
+
+# --- Αρχεία Συστήματος (Mac & Windows) ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
